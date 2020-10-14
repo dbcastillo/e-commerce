@@ -1,0 +1,2 @@
+class VipClub < ApplicationRecord
+end

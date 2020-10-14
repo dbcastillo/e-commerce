@@ -1,0 +1,2 @@
+module VipClubsHelper
+end
